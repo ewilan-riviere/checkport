@@ -1,4 +1,4 @@
-module checkport
+module github.com/ewilan-riviere/checkport
 
 go 1.25.0
 
