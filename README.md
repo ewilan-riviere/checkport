@@ -4,7 +4,7 @@
 [![tests][tests-src]][tests-href]
 [![license][license-src]][license-href]
 
-A small tool, written in Go, to chekc if a port is available or not.
+A small tool, written in Go, to check if a port is available or not.
 
 ## Install
 
