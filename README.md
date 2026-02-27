@@ -26,6 +26,20 @@ Use `sudo` to know which process uses this port:
 sudo checkport 3000
 ```
 
+### `sudo: checkport: command not found`
+
+If you installed checkport locally, `sudo` can failed with `sudo: checkport: command not found`.
+
+```sh
+which checkport
+```
+
+Output will be `/home/$USER/go/bin/checkport`, so you have just to create a symbolic link:
+
+```sh
+sudo ln -s $(which checkport) /usr/local/bin/
+```
+
 ## Test
 
 ```sh
