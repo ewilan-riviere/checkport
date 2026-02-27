@@ -14,6 +14,8 @@ With [Go](https://go.dev/) installed, just add checkport:
 go install github.com/ewilan-riviere/checkport@latest
 ```
 
+To update, just execute same command.
+
 ## Usage
 
 Just check a port:
