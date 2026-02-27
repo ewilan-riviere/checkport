@@ -4,9 +4,11 @@
 [![tests][tests-src]][tests-href]
 [![license][license-src]][license-href]
 
-A small tool, written in Go, to check if a port is available or not.
+A small tool, written in [Go](https://go.dev/), to check if a port is available or not.
 
 ## Install
+
+With [Go](https://go.dev/) installed, just add checkport:
 
 ```bash
 go install github.com/ewilan-riviere/checkport@latest
