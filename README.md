@@ -38,7 +38,7 @@ go test -v
 
 [go-src]: https://img.shields.io/static/v1?style=flat&label=Go&message=v1.25&color=00ADD8&logo=go&logoColor=ffffff&labelColor=18181b
 [go-href]: https://go.dev/
-[tests-src]: https://img.shields.io/github/actions/workflow/status/ewilan-riviere/checkport/run-tests.yml?branch=main&label=tests&style=flat&colorA=18181B
+[tests-src]: https://img.shields.io/github/actions/workflow/status/ewilan-riviere/checkport/test.yml?branch=main&label=tests&style=flat&colorA=18181B
 [tests-href]: https://packagist.org/packages/ewilan-riviere/checkport
-[license-src]: https://img.shields.io/github/license/ewilan-riviere/checkport.svg?style=flat&colorA=18181B&colorB=00ADD8
+[license-src]: https://img.shields.io/github/license/ewilan-riviere/checkport?style=flat&colorA=18181B&colorB=00ADD8
 [license-href]: https://github.com/ewilan-riviere/checkport/blob/main/LICENSE
